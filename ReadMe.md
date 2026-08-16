@@ -13,6 +13,8 @@ Here the fast wireless protocol lets users control a wheeled remote controlled r
 In this implementation, WiFi and BLE are the two transports used for the protocol. 
 This fast wireless protocol also works on RF as a hardware implementation, and LoRa as well, and these transports will be explored eventually.
 
+This app has been tested on various sizes of robots ranging from microbots to regular 40cm builds, 1/8 scale formula racers and industrial size delivery robots.
+
 As a founder of SPAR Dynamics, an IIT Madras funded startup, Aditya keeps innovating new ways to introduce basic electronics to school students and university undergrads.
 SPAR Dynamics has received its initial grant at IIT Madras incubator Nirmaan, from BMW Techworks in March 2026.
 
