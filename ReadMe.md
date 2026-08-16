@@ -3,9 +3,11 @@ SPAR Joystick
 This App is developed by Aditya Rao at IIT Madras.
 
 This repository contains the firmware files needed for different types of development boards to work with the SPAR Joystick android app in the Google Playstore.
-The different firmware needed for various boards will be updated here continuously as and when testing gets done for the various dev boards and microcontrollers.
+The different firmware needed will be updated here continuously as and when testing gets done for the various dev boards and microcontrollers.
 
-It is a versatile universal remote control app that runs on your android app. It offers very precise controls with differential steering, reverse kinematics built in.
+It is a versatile universal remote control app that runs on your android mobile phone which supports WiFi and Bluetooth Low Energy (BLE).
+BLE offeres a higher range almost 5 times more than the classic bluetooth, hence the BLE transport is implemented in this app instead of the older classic bluetooth.
+It offers very precise controls with differential steering, reverse kinematics built in.
 It operates on a unique UDP protocol developed by Aditya that offers fast wireless control of any robot remotely.
 Here the fast wireless protocol lets users control a wheeled remote controlled robot using their mobile phone.
 In this implementation, WiFi and BLE are the two transports used for the protocol. 
