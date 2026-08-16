@@ -14,8 +14,11 @@ This fast wireless protocol also works on RF as a hardware implementation, and L
 As a founder of SPAR Dynamics, an IIT Madras funded startup, Aditya keeps innovating new ways to introduce basic electronics to school students and university undergrads.
 SPAR Dynamics has received its initial grant at IIT Madras incubator Nirmaan, from BMW Techworks in March 2026.
 
-https://spardynamics.com/#circuits-table
+App Website : 
 https://spardynamics.com/#joystick
+
+Supported Microcontroller boards (regularly updated with new boards)
+https://spardynamics.com/#circuits-table
 
 App Link:
 https://play.google.com/store/apps/details?id=com.sparjoystick.app
