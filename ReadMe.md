@@ -16,3 +16,6 @@ SPAR Dynamics has received its initial grant at IIT Madras incubator Nirmaan, fr
 
 https://spardynamics.com/#circuits-table
 https://spardynamics.com/#joystick
+
+App Link:
+https://play.google.com/store/apps/details?id=com.sparjoystick.app
